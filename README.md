@@ -4,9 +4,9 @@
 
 ## 注意：标粗的为必读，需要进行三步读书法～
 
-## 最重要的事 :arrow_forward:（已完成）
+## 最重要的事 :arrow_forward: 
 
-> 软技能 (已完成）
+> 软技能   
 
 **[Secret-Top-Programmers](https://github.com/JsonChao/Secret-Top-Programmers)**
 
@@ -17,13 +17,13 @@
 
 > [计算机组成原理](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86.md)
 
-- **慕课网之《编程必备基础 计算机组成原理+操作系统+计算机网络》**（已完成）
+- **慕课网之《编程必备基础 计算机组成原理+操作系统+计算机网络》** 【Loading】
 
 - 极客时间之《深入浅出计算机组成原理》
 
 ### 操作系统（重点）
  
-> [现代操作系统]()（进行中~）
+> [现代操作系统]()
   
 - **慕课网之《编程必备基础 计算机组成原理+操作系统+计算机网络》**
 - **慕课网之《大学计算机必修课新讲--编译原理+操作系统+图形学》**
@@ -69,25 +69,25 @@
 
 #### 网络基础
 
-- **慕课网之《编程必备基础 计算机组成原理+操作系统+计算机网络》**（已完成）
-- **极客时间之《趣谈网络协议》**（已完成）
+- **慕课网之《编程必备基础 计算机组成原理+操作系统+计算机网络》** 
+- **极客时间之《趣谈网络协议》** 
 
 
 #### 网络进阶
 
-- HTTP 1.1 —— **《HTTP 权威指南》** （已完成）
-- HTTP 2.0 —— **[http2-explained](https://legacy.gitbook.com/book/ye11ow/http2-explained/details)/[HTTP/2 的协议本身（RFC 7540）](https://httpwg.org/specs/rfc7540.html)/[HTTP/2 的压缩算法（RFC 7541）](https://httpwg.org/specs/rfc7541.html)**（已完成）
+- HTTP 1.1 —— **《HTTP 权威指南》**  
+- HTTP 2.0 —— **[http2-explained](https://legacy.gitbook.com/book/ye11ow/http2-explained/details)/[HTTP/2 的协议本身（RFC 7540）](https://httpwg.org/specs/rfc7540.html)/[HTTP/2 的压缩算法（RFC 7541）](https://httpwg.org/specs/rfc7541.html)** 
 - TCP/IP —— **《TCP/IP 详解（卷一：协议）》**
 
 
-#### 网络优化（已完成）
+#### 网络优化
 
-- **《Web 性能权威指南》**（已完成）
+- **《Web 性能权威指南》** 
 
 
 #### 备选项
 
-- 《计算机网络：自顶向下方法》(原书第6版)（已完成）
+- 《计算机网络：自顶向下方法》(原书第6版) 
 - 极客时间之《透视 HTTP 协议》
 - 《图解 TCP/IP》
 
@@ -95,7 +95,7 @@
 
 > [计算机安全](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/%E5%AE%89%E5%85%A8.md)（推荐）
 
-- **《图解密码技术》**（已完成）
+- **《图解密码技术》** 
 
 
 #### 深入了解常见安全漏洞及解决方案
@@ -154,14 +154,14 @@
 
 > [Java设计模式](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/Android%E5%BC%80%E5%8F%91%E8%80%85%E5%BF%85%E9%A1%BB%E6%8E%8C%E6%8F%A1%E7%9A%84%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.md)
 
-- **~~《Android进阶之光 设计模式部分》 （已完成）~~**
-- **《Head First 设计模式》（已完成，待记录）**
+- **~~《Android进阶之光 设计模式部分》  ~~**
+- **《Head First 设计模式》**
 
 - **极客时间之《设计模式之美》**
 
 > Android源码设计模式
 
-- **《Android源码设计模式解析与实战》（已完成，待记录）**
+- **《Android源码设计模式解析与实战》**
 
 
 ## Java :coffee:（重点）
@@ -208,14 +208,12 @@
 
 ## Android :zap:
 
-> [Android基础](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/%E7%AC%AC%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.md#1.1%E4%BA%86%E8%A7%A3%E5%85%A8%E8%B2%8C)（已完成）
+> [Android基础](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/%E7%AC%AC%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.md#1.1%E4%BA%86%E8%A7%A3%E5%85%A8%E8%B2%8C) 
 
-- **~~《第一行代码》（已完成）~~**
+> [Android进阶](https://jsonchao.github.io/categories/%E5%AE%89%E5%8D%93%E8%BF%9B%E9%98%B6/) 
 
-> [Android进阶](https://jsonchao.github.io/categories/%E5%AE%89%E5%8D%93%E8%BF%9B%E9%98%B6/)（已完成）
-
-- **《Android进阶之光》 （已完成）**
-- **《Android开发艺术探索》 （已完成）**
+- **《Android进阶之光》  **
+- **《Android开发艺术探索》  **
 
 
 ## 细分领域专家 :rocket:
